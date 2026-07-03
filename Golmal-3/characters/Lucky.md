@@ -1,0 +1,2 @@
+Lucky Gill (Tusshar Kapoor)
+Lucky is kind-hearted, innocent, and cheerful. He has a speech impairment that often leads to humorous situations. Although he may not always understand everything happening around him, his honesty and positive attitude make him a lovable member of the group.

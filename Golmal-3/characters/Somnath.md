@@ -1,0 +1,2 @@
+Somnath "Somu" (Paresh Rawal)
+Somu is a blind couple's son who lives with his elderly parents. He is responsible and caring, but he becomes involved in the confusion caused by Gopal and his friends. His character plays an important role in moving the story forward.
