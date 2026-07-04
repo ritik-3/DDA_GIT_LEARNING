@@ -1,0 +1,2 @@
+Laxman Prasad Sharma (Sharman Joshi)
+Laxman is intelligent, sarcastic, and resourceful. He enjoys teasing others and often works alongside Madhav. His sharp sense of humor and practical thinking help the friends navigate their adventures.
