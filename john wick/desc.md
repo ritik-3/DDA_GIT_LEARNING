@@ -1,0 +1,1 @@
+ohn Wick is a retired legendary assassin who goes on a brutal revenge spree after Russian mobsters break into his home, steal his vintage car, and kill his puppy—the final gift from his recently deceased wife. This forces him out of retirement and back into the criminal underworld to hunt them down.
