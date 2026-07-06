@@ -1,0 +1,2 @@
+Madhav Singh Ghai (Arshad Warsi)
+Madhav is witty, talkative, and quick-thinking. He frequently gets into arguments with Gopal, creating many of the film's funniest moments. His humorous personality and clever remarks add energy to the story.
