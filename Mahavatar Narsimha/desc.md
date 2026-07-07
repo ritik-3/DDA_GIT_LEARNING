@@ -1,0 +1,1 @@
+Mahaavtar Narsimha is a beautifully animated film that brings the legendary story of Lord Vishnu's Narasimha avatar to life.The demon Hiranyakashyap seeks revenge on Vishnu and declares himself a god. His son Prahlad remains devoted to Vishnu. Vishnu manifests as Narsimha to defeat the demon and restore balance.gi
