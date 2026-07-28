@@ -1,0 +1,1 @@
+The Heart (Hridayam) is a 2026 Indian devotional epic directed by Hardik Gajjar. Based on Raam Mori's 2025 novel Satyabhama, the ₹60 crore film explores Lord Krishna's emotional journey, from his divine love with Radha in Vrindavan to his duties and relationships with his consorts Rukmini and Satyabhama in Dwarka.

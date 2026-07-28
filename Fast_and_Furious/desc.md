@@ -34,16 +34,7 @@ The franchise combines street racing culture with action and crime stories.
 
 # Slide 4: Main Movie Series
 
-1. The Fast and the Furious (2001)
-2. 2 Fast 2 Furious (2003)
-3. The Fast and the Furious: Tokyo Drift (2006)
-4. Fast & Furious (2009)
-5. Fast Five (2011)
-6. Fast & Furious 6 (2013)
-7. Furious 7 (2015)
-8. The Fate of the Furious (2017)
-9. F9: The Fast Saga (2021)
-10. Fast X (2023)
+
 
 ---
 
