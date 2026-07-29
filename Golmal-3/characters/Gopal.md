@@ -1,0 +1,2 @@
+Gopal Kumar Santoshi (Ajay Devgn)
+Gopal is the leader of the group and is clever, confident, and fearless. He often comes up with plans to solve problems, although his ideas sometimes create even bigger trouble. Despite his mischievous nature, he is loyal to his friends and stands by them in difficult situations.
