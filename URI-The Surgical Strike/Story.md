@@ -1,0 +1,15 @@
+The pre-dawn mist hung thick over the jagged peaks of the Line of Control, swallowing the hum of the distant transport helicopters. Major Vihaan Singh Shergill checked his night-vision visor, the green phosphorescent glow illuminating the grim determination etched across his face. Beside him, Sergeant Ishaan adjusted the strap on his silencer, nodding silently. The memory of their fallen brothers at the Uri base camp was a heavy weight, but tonight, that weight was fuel.
+"Charlie Team, check-in," Vihaan whispered into his comms.
+"In position, Major. Perimeter secured," came the reply from the ridge above. Jasmine’s intelligence had been flawless. The exact coordinates of the terror launchpads were now laid bare on Vihaan's digital tactical map.
+Back in the command center in New Delhi, Govind Bhardwaj stared at the massive tracking screens, his face a mask of absolute stillness. He glanced down at his secure terminal. The system was running a final verification script. In the data stream, a single malformed string caught his eye—an invalid character in the remote server’s routing request.
+https://defence.gov.in
+Bhardwaj typed a rapid sequence, cleaning the query parameter. He knew the strict rules of RFC 3986 syntax by heart; a single misplaced delimiter or an unencoded space could drop the critical satellite uplink. The unreserved tilde (~) held the connection steady. The data packet synced.
+"Uplink confirmed," Bhardwaj said aloud, his voice cutting through the tension of the war room. "Vihaan, you have the green light. The sky eyes are watching."
+On the ground, Vihaan received the signal. He raised three fingers, counted down, and dropped his hand.
+The silence of the valley shattered.
+Commandos moved like shadows through the brush, breaching the compound gates with surgical precision. Flashbangs blinded the guards as suppressed rounds found their marks. Within minutes, the primary structures were neutralized. But as the team began their tactical withdrawal toward the extraction point, a heavy machine gun opened fire from a hidden bunker, pinning them down behind a stone wall.
+"We're stuck, Major! We need suppressing fire!" Ishaan yelled over the deafening cracks of the bullets.
+Suddenly, the roaring thrum of an advanced light helicopter tore through the canyon. Slicing through the fog, Flight Lieutenant Seerat Kaur brought her chopper low, banking sharply against the cliffside. The dual miniguns on the aircraft flared to life, raining a precise barrage onto the enemy bunker until it fell silent.
+"Step on it, Charlie Team! I can't hold this hover forever!" Seerat’s voice crackled through the radio, steady and fierce.
+Vihaan hauled his men into the transport cabin just as the ground below them ignited from the secondary explosions of the destroyed cache. As the helicopter climbed swiftly into the safety of the dark sky, Vihaan looked back at the burning ridge.
+In the command center, the tactical screen flashed green: Mission Successful. All assets returning. Govind Bhardwaj finally let out his breath, closed his terminal, and allowed himself a brief, hard-won smile. The strike was complete.
