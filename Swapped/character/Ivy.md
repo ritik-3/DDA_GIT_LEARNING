@@ -1,0 +1,1 @@
+Ivy is the deuteragonist of the 2026 Skydance animated film Swapped, voiced by Juno Temple. She is a majestic, anxious bird-like creature called a Javan, and the older sister to Violet and Lily
