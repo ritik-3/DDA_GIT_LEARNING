@@ -10,7 +10,7 @@ Jasmine's intelligence had been flawless. The exact coordinates of the terror la
 
 ---
 
-## Command Center – New Delhi
+## Command Center – New Delhi (India)
 
 Hundreds of kilometers away, inside the highly secured command center in New Delhi, **Govind Bhardwaj** stood before a wall of live tactical displays. His expression remained calm despite the immense pressure.
 
