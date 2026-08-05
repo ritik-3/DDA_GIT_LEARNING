@@ -1,0 +1,3 @@
+Easygoing
+funny
+adventurous.

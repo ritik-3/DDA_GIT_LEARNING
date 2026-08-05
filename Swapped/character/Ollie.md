@@ -1,0 +1,1 @@
+ Ollie is a small, curious Pookoo (a fuzzy creature resembling a sea otter) voiced by Michael B. Jordan in the animated film Swapped.in the animated film Swapped. He accidentally triggers a magic pod that swaps his body with a bird-like Javan named Ivy, forcing them to team up.

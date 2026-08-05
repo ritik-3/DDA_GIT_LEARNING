@@ -1,0 +1,1 @@
+Govind Bhardwaj played by Paresh Rawal – The National Security Advisor (inspired by Ajit Doval) who plans the strategic retaliation

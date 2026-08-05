@@ -1,0 +1,1 @@
+ Boogle is a purple fish-like character voiced by Tracy Morgan who is secretly the legendary Firewol

@@ -1,0 +1,1 @@
+Minions: The Rise of Gru is a fun animated adventure set in the 1970s. It follows a young Gru, who dreams of becoming the world's greatest supervillain. With the help of his loyal Minions, he tries to join a famous group of villains called the Vicious 6, leading to exciting adventures and lots of comedy.

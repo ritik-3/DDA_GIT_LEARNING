@@ -132,4 +132,13 @@ The operation was complete.
 Justice had been delivered.
 
 ---
+## Movie Details
+
+| Attribute | Value |
+|-----------|-------|
+| **Title** | Uri: The Surgical Strike |
+| **Release Year** | 2019 |
+| **Genre** | Action, War, Drama |
+| **Director** | Aditya Dhar |
+| **Lead Actor** | Vicky Kaushal (Major Vihaan Singh Shergill) |
 **End**
