@@ -1,0 +1,7 @@
+                                   Munjya (2024) – Story
+
+Munjya is a Hindi horror-comedy based on a Konkan folk legend. The story follows Bittu, a shy young man from Pune who visits his ancestral village with his mother and grandmother. There, he discovers a dark family secret connected to a cursed spirit called Munjya.
+
+Years ago, a young boy named Gotya fell obsessively in love with an older girl named Munni. Desperate to marry her, he turned to black magic, but died before his wish could come true. Because he died under unusual circumstances, his spirit became Munjya, a mischievous and dangerous ghost whose only goal is to fulfill his unfinished desire to get married.
+
+When Bittu accidentally awakens Munjya, the ghost begins haunting him everywhere. Munjya first asks Bittu to help him find Munni, but later becomes obsessed with Bela, the girl Bittu secretly loves. As Munjya's supernatural powers grow stronger, Bittu must protect Bela while uncovering the truth about his family's past. With help from his cousins and a local priest, Bittu faces the ghost in a thrilling battle that mixes horror, comedy, and emotion. The film ends with Bittu defeating Munjya and saving Bela, while also hinting at future stories in the Maddock Horror Comedy Universe.
