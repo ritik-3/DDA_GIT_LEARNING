@@ -1,0 +1,1 @@
+Major Vihaan Singh Shergill (played by Vicky Kaushal): A Para SF team leader who leads the retaliatory surgical strikes. The character is based on Colonel Kapil Yadav.
