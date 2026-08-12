@@ -1,0 +1,3 @@
+Tough
+courageous
+protective.

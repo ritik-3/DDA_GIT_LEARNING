@@ -1,0 +1,3 @@
+Talkative
+enthusiastic
+loyal.
