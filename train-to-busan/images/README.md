@@ -94,7 +94,11 @@ train-to-busan/
     ├── sang-hwa.md
     ├── seong-kyeong.md
     └── yong-suk.md
-    
+
     ## 🎬 Official Trailer
 
 [▶️ Watch the Official Trailer](trailer.md)
+
+## 🎬 Top 5 Events
+
+[View Top 5 Events](story.md#-top-5-events-in-train-to-busan)
