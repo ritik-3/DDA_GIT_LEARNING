@@ -102,3 +102,13 @@ train-to-busan/
 ## 🎬 Top 5 Events
 
 [View Top 5 Events](story.md#-top-5-events-in-train-to-busan)
+
+# 🎵 Title Song
+
+**Train to Busan — Original Motion Picture Soundtrack**
+
+🎬 **Movie:** Train to Busan
+🎼 **Music:** Mowg
+📅 **Year:** 2016
+
+▶️ **Listen:** [YouTube]((https://www.youtube.com/watch?v=T5erkvTo5sc)
