@@ -1,6 +1,6 @@
 # Alice in Borderland
 
-![Alice in Borderland](ALICE_IN_THE_BORDERLAND/OFFICIAL_POSTER/AITB_POSTER.jpg)
+![Alice in Borderland](../OFFICIAL_POSTER/alice_in_borderland.jpg)
 
 ## Short Description
 
