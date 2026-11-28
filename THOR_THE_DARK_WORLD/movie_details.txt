@@ -1,0 +1,17 @@
+MOVIE_DETAILS
+
+Movie_Name: Thor: The Dark World
+Release_Year: 2013
+Genre: Action, Adventure, Fantasy, Superhero
+Director: Alan Taylor
+Producer: Kevin Feige
+Main_Actor: Chris Hemsworth
+Main_Actress: Natalie Portman
+Supporting_Actor: Tom Hiddleston
+Other_Cast: Anthony Hopkins, Christopher Eccleston
+Production_Company: Marvel Studios
+Language: English
+Country: United States
+Duration: 1 Hour 52 Minutes
+Movie_Universe: Marvel Cinematic Universe (MCU)
+Movie_Sequence: Phase Two
